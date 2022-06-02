@@ -1,0 +1,106 @@
+body {
+  background-color:black;
+}
+/***** 7a css design****/
+.painting-container {
+  text-align:center;
+ margin: 0  auto 35px auto;
+ background-color:white;
+ width:90%;
+ height:50vh;
+}
+.paint-img {
+  width:200px;
+  border-radius:8px;
+}
+/**** 7b css desigb****/
+.painti-img {
+  width:250px;
+  height:250px;
+}
+/**** 7c css design****/
+.pan-img {
+  width: 200px;
+  height:200px;
+  border-radius:100px;
+}
+/****7d css design****/
+.search-input {
+  border-radius:2px;
+  border-style:solid;
+  border-width:0.5px;
+  width:130px;
+  height:30px;
+}
+/***** 7e css design****/
+.searched-input {
+  padding-left:15px;
+  border-radius:15px;
+  border-style:none;
+  box-shadow: 0.5px 0.5px 3px rgb(96,96,96);
+  width:330px;
+  height:30px;
+}
+/***** 7f ****/
+.paint-container {
+  margin:0 auto 25px auto;
+  background-color:white;
+  width:90%;
+  height:50vh;
+  align-items: center;
+  text-align-last: center;
+}
+.email-p {
+  margin:o auto;
+}
+.input-email {
+  border-width:1.8px;
+  border-style:solid;
+  border-radius:2px;
+  width:330px;
+  height: 25px;
+  margin-top:5px;
+  margin:0 auto;
+}
+.email-button {
+  font-size:17px;
+  font-weight:500;
+  background-color:#4f86f7;
+  color:white;
+  border-style:none;
+  padding:13px 120px 13px 120px;
+  border-radius:20px;
+}
+.painting-container label {
+  margin-right:50px;
+}
+/**** vertical container****/
+.vertical-container {
+  box-shadow:1px 1px 3px ;
+  vertical-align:midlle;
+  display: flex;
+  width:95%;
+  height:63px;
+  margin:0 auto;
+}
+.vertical-img {
+  padding-left:4px;
+  margin:auto 0;
+  width:50px;
+  height:50px;
+  border-radius:120px;
+  vertical-align: midlle;
+}
+.p-what {
+  vertical-align:middle;
+  margin: auto 25px auto 25px;
+}
+.tweet-button {
+  background-color:#4f86f7;
+  border-style:none;
+  border-radius:15px;
+  color:white;
+  padding:7px 11px;
+  vertical-align: middle;
+  margin: auto 2% auto 15% ;
+}
